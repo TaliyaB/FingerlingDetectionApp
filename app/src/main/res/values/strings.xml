@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tilapia Fingerling Counter</string>
+    <string name="detect">Detect</string>
+    <string name="subText">"This application is embedded with a trained Yolov3 model  for Oreochromis Niloticus (Tilapia) fingerling counting.  Click 'Detect' to start."</string>
 </resources>
